@@ -1,5 +1,5 @@
 <h3 align="center">
-  <a href="[https://komarev.com/ghpvc/?username=Yakyi](https://imgur.com/a/G8GzSCs)"><img src="https://imgur.com/a/G8GzSCs"></a>
+  <a href="https://imgur.com/a/G8GzSCs"><img src="https://imgur.com/a/G8GzSCs"></a>
 
   Hi, I'm Yakyi! 👋
 </h3>
