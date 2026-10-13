@@ -46,13 +46,14 @@
 <img src="https://www.codedex.io/images/codedex-bot-logo-compressed.gif" width="250" height="250" align="right"/>
 
 ```python
-while alive:
-    learn()
-    code()
-    install_arch()
-    break_arch()
-    fix_arch()
-    drink_coffee()
-    drink_more_coffee()
-    sleep()
+def life():
+    while alive:
+        learn()
+        code()
+        install_arch()
+        break_arch()
+        fix_arch()
+        drink_coffee()
+        drink_more_coffee()
+        sleep()
 ```
