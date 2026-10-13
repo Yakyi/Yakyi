@@ -1,5 +1,5 @@
 <h3 align="center">
-  <a href="https://imgur.com/a/G8GzSCs"><img src="https://imgur.com/a/G8GzSCs"></a>
+  <a href="https://i.imgur.com/HNGr2nF.png"><img src="https://i.imgur.com/HNGr2nF.png"></a>
 
   Hi, I'm Yakyi! 👋
 </h3>
