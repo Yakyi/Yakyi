@@ -50,6 +50,7 @@ def life():
     while alive:
         learn()
         code()
+        design()
         install_arch()
         break_arch()
         fix_arch()
