@@ -54,8 +54,6 @@ def life():
         install_arch()
         break_arch()
         fix_arch()
-        break_arch()
-        fix_arch()
         drink_coffee()
         drink_more_coffee()
         sleep()
