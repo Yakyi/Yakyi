@@ -25,8 +25,7 @@
 | :--- |
 | <img src="https://skillicons.dev/icons?i=py,kotlin,html,css,c,cpp,sqlite,php&perline=12" /> |
 | 🛠️ Tools |
-| <img src="https://skillicons.dev/icons?i=linux,arch,windows,git,github,vscode,pycharm,clion,idea,phpstorm,bash,discord&perline=12" /> |
-| <img src="https://img.shields.io/badge/DB_Browser_for_SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> |
+| <img src="https://skillicons.dev/icons?i=linux,arch,windows,git,github,vscode,pycharm,clion,idea,phpstorm,bash,discord,cmake,figma,md,obsidian,ps,pr,xd&perline=12" /> |
 
 <br>
 
